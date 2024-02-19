@@ -20,7 +20,13 @@
 
 ![rabeehcv's Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabeehcv&layout=compact&theme=dark)
 <br>
- <img height="240em"src="https://streak-stats.demolab.com/?user=rabeehcv&theme=dracula"/>
+<p align="center">
+<a href="https://github.com/rabeehcv">
+          <img height="240em"src="https://streak-stats.demolab.com/?user=rabeehcv&theme=dracula"/>
+</a>
+</p>
+         
+
 
 ### Reach out to me
 <p align="left">
