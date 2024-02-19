@@ -11,7 +11,7 @@
 ### Languages and Tools
 </p>
 
-[![rabeehcv's Skills](https://skillicons.dev/icons?i=react,python,html,css,js,ts,c&theme=dark)](https://skillicons.dev)
+[![rabeehcv's Skills](https://skillicons.dev/icons?i=react,python,html,css,js,ts,c,psql&theme=dark)](https://skillicons.dev)
 
 <br>
 
@@ -20,6 +20,7 @@
 
 ![rabeehcv's Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabeehcv&layout=compact&theme=dark)
 <br>
+ <img height="240em"src="https://streak-stats.demolab.com/?user=rabeehcv&theme=dracula"/>
 
 ### Reach out to me
 <p align="left">
