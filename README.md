@@ -11,7 +11,7 @@
 ### Languages and Tools
 </p>
 
-[![rabeehcv's Skills](https://skillicons.dev/icons?i=react,python,html,css,js&theme=dark)](https://skillicons.dev)
+[![rabeehcv's Skills](https://skillicons.dev/icons?i=react,python,html,css,js,ts&theme=dark)](https://skillicons.dev)
 
 <br>
 
@@ -24,7 +24,7 @@
 ### Reach out to me
 <p align="left">
 <a href="https://github.com/rabeehcv" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="rabeehcv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rabeehcv/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rabeehcv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rabeeh-cv/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="rabeehcv" height="30" width="40" /></a>
 </p>
 
 
