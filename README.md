@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="30"
-         width="30" /> I'm Rabeeh C. V. </h1>
+         height="40"
+         width="40" /> I'm Rabeeh C. V. </h1>
          
   ## About Me:
 - ECE final year student.
