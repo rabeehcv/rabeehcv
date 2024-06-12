@@ -4,7 +4,7 @@
          width="40" /> I'm Rabeeh C. V. </h1>
          
   ## About Me:
-- ECE final year student.
+- Graduated in Electronics and Communication Engineering.
 - I’m currently learning React Js.
 - :heart: I love reading books and watching films.
 
