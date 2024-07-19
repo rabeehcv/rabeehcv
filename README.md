@@ -5,7 +5,7 @@
          
   ## About Me:
 - Graduated in Electronics and Communication Engineering.
-- I’m currently learning React Js.
+- I’m currently learning DSA and Java.
 - :heart: I love reading books and watching films.
 
 ### Languages and Tools
