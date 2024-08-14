@@ -11,7 +11,7 @@
 ### Languages and Tools
 </p>
 
-[![rabeehcv's Skills](https://skillicons.dev/icons?i=react,python,html,css,js,ts,c,postgresql,java&theme=dark)](https://skillicons.dev)
+[![rabeehcv's Skills](https://skillicons.dev/icons?i=react,python,html,css,js,ts,c,postgresql,java,spring,maven&theme=dark)](https://skillicons.dev)
 
 <br>
 
