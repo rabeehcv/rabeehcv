@@ -5,8 +5,7 @@
          
   ## About Me:
 - Graduated in Electronics and Communication Engineering.
-- I’m currently learning DSA and Java.
-- :heart: I love reading books.
+
 
 ### Languages and Tools
 </p>
